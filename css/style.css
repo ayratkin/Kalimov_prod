@@ -1,0 +1,80 @@
+body {
+    background-color: #f5f5f5;
+    position: relative;
+}
+
+.left-sidebar {
+    position: absolute;
+    width: 420px;
+    height: 100vh;
+}
+
+.avatar-img {
+    width: 160px;
+    height: 160px;
+    display: block;
+    margin: 50px auto 10px;
+}
+
+
+.avatar p {
+    text-align: center;
+    line-height: 1.5;
+    color: black;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: "Poppins", Arial, sans-serif;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.nav {
+    display: block;
+    margin-top: 30px;
+}
+.nav ul li a {
+    font-size: 16px;
+    font-weight: 700;
+    display: block;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #4c4c4c;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.content {
+    margin-left: 420px;
+    /* border: 5px solid red; */
+}
+
+.main_box {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    /* border: 5px solid green; */
+}
+
+.pic {
+    display: inline-block;
+    /* border: 5px solid slateblue; */
+    width: 50%;
+    height: 100vh;
+    float: left;
+}
+
+.pic img {
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.text-in-main-box {
+    margin-left: 10px;
+    margin-top: 20%;
+    display: inline-block;
+    width: 46%;
+    height: 100vh;
+    /* border: 5px solid aqua; */
+}
