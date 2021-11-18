@@ -1,53 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/AboutMeStyles.css">
-    <title>Portfolio</title>
-</head>
-<body>
-
-    <a href="index.html"><div class="left-sidebar">
-        <div class="avatar">
-            <img class="avatar-img" src="img/avatarka2.png" alt="avatarka">
-            <p>Marat Kalimov</p>
-        </div></a>
-
-        <div class="nav">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="Works.html">Works</a></li>
-                <li><a href="#">About Me</a></li>
-                <li><a href="#">My services</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </div>
-
-        <p class="autor">Developed by Airat</p>
-        <p class="autor1">Marat gay</p>
-        <p class="autor2"> pay 50$ to remove this text</p>
-    </div>
-
-    <div class="content">
-
-        <div class="main_box">
-            <iframe width="1500" height="800" src="https://www.youtube.com/embed/_AZDaW3GLQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-
-        <div class="footer">
+<div class="footer">
             <div class="columns">
                 <div class="column1"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum autem pariatur mollitia dicta cupiditate saepe, suscipit placeat nobis reprehenderit libero asperiores debitis vero nesciunt recusandae unde a earum beatae. Distinctio optio eum natus beatae blanditiis possimus harum accusamus unde itaque voluptatibus veritatis, atque expedita sit consequuntur quidem reprehenderit necessitatibus tempora assumenda officia eius dolor. Eveniet id ducimus sed commodi obcaecati eius nisi, laborum eum corporis. </div>
                 <div class="column2"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam placeat laboriosam possimus fugit doloribus eos quibusdam iste enim quae iure qui voluptatem, illum consequuntur ipsa natus nostrum, rem necessitatibus sint voluptates? Veritatis reprehenderit nihil, provident eum neque, dicta, magnam laboriosam labore earum accusantium beatae autem odit tempora quam expedita id fugiat iure voluptates iusto? Earum, nulla! Dolores corporis ullam voluptates a laboriosam odio explicabo reiciendis. </div>
                 <div class="column3"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam placeat laboriosam possimus fugit doloribus eos quibusdam iste enim quae iure qui voluptatem, illum consequuntur ipsa natus nostrum, rem necessitatibus sint voluptates? Veritatis reprehenderit nihil, provident eum neque, dicta, magnam laboriosam labore earum accusantium beatae autem odit tempora quam expedita id fugiat iure voluptates iusto? Earum, nulla! Dolores corporis ullam voluptates a laboriosam odio explicabo reiciendis. </div>
                 <div class="column4"> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro neque itaque sit veritatis sequi, voluptas magni vero ab, deleniti consectetur consequatur voluptate temporibus atque accusantium repellendus tenetur excepturi quos necessitatibus quidem, laboriosam ex veniam similique odio dolorem! Veritatis eius explicabo rerum officia accusamus, repellat adipisci fuga labore asperiores, ut provident quis nobis laborum tempore reiciendis vero, obcaecati distinctio perspiciatis possimus ex doloremque delectus! Asperiores, sapiente! </div>
             </div>
-        </div>
-
-    </div>
-
-</body>
-</html>
+</div>
