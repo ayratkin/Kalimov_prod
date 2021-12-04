@@ -16,8 +16,8 @@
 
     <div class="content">
 
-        <div class="page_header">
-            <p class="header-text" >My Collection</p>
+        <div class="page_header2">
+            <p class="header-text2" >My Collection</p>
         </div>
 
         <div class="page_content1">

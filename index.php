@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="img/111.png" type="image/x-icon">
     <title>Portfolio</title>
 </head>
 <body>
@@ -39,7 +40,20 @@
                 </div>
 
             </div>
+
         </div>
+
+        <div class="social1">
+                <h1>Follow me on Instagramm</h1>
+                <div class="social-box" >
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg.png" alt=""></a></div>
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg2.png" alt=""></a></div>
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg3.png" alt=""></a></div>
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg4.png" alt=""></a></div>
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg5.png" alt=""></a></div>
+                    <div class="div-with-pic"><a href="https://www.instagram.com/kalimov_production/" target="_blank"><img src="img/gg6.png" alt=""></a></div>
+                </div>
+            </div>
 
         <?php include('phpElements/footer.php')?>
 
