@@ -8,10 +8,10 @@
             <ul>
                 <li><a class="menu_link" href="index.php">Home</a></li>
                 <li><a class="menu_link" href="works.php">Works</a></li>
-                <li><a class="menu_link" href="#">About Me</a></li>
-                <li><a class="menu_link" href="#">My services</a></li>
-                <li><a class="menu_link" href="#">Blog</a></li>
-                <li><a class="menu_link"href="#">Contact</a></li>
+                <li><a class="menu_link" href="#"><s>About Me</s></a></li>
+                <li><a class="menu_link" href="#"><s>My services</s></a></li>
+                <li><a class="menu_link" href="#"><s>Blog</s></a></li>
+                <li><a class="menu_link"href="#"><s>Contact</s></a></li>
             </ul>
         </div>
 
