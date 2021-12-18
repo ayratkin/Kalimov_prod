@@ -23,6 +23,10 @@
         
     <?php include('phpElements/slider.php') ?>
 
+    <a href="#" class="menu-btn" >
+        <span></span>
+    </a>
+
             <div class="text-in-main-box">
                 <p class="subhead">Hello! I'm</p>
                 <p class="big-letter">Marat Kalimov</p>
