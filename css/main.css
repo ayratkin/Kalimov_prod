@@ -585,3 +585,31 @@ body {
   }
 
 }
+
+.contact-header {
+  font-family: "MyF2";
+  font-size: 24px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: black;
+  line-height: 1.5;
+}
+
+.content-body {
+  margin-top: 75px;
+  margin-left: 27px;
+  margin-right: 27px;
+  margin-bottom: 75px;
+}
+
+.box-for-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.box-for-box div {
+  margin: 15px;
+  width: 20%;
+  border: 3px solid red;
+}
