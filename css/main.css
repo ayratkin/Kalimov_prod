@@ -589,6 +589,34 @@ body {
 
 }
 
+.contact-header {
+  font-family: "MyF2";
+  font-size: 24px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: black;
+  line-height: 1.5;
+}
+
+.content-body {
+  margin-top: 75px;
+  margin-left: 27px;
+  margin-right: 27px;
+  margin-bottom: 75px;
+}
+
+.box-for-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.box-for-box div {
+  margin: 15px;
+  width: 20%;
+  border: 3px solid red;
+}
+
 /* Стили для страницы MyServices */
 
 .page2_content {
@@ -644,7 +672,7 @@ body {
 }
 
 .row__title__text {
-width: 100%;
+    width: 100%;
     font-family: 'Poppins', sans-serif;
     color: #000000;
     font-size: 18px;
@@ -669,4 +697,3 @@ width: 100%;
   line-height: 1.5;
   font-weight: 800;
   font-size: 20px;
-}

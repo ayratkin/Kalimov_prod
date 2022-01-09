@@ -11,7 +11,7 @@
                 <li><a class="menu_link" href="MyServices.php">My services</a></li>
                 <li><a class="menu_link" href="#"><s>About Me</s></a></li>
                 <li><a class="menu_link" href="#"><s>Blog</s></a></li>
-                <li><a class="menu_link"href="#"><s>Contact</s></a></li>
+                <li><a class="menu_link" href="../contact.php">Contact</a></li>
             </ul>
         </div>
 
