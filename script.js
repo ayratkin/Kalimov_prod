@@ -1,3 +1,4 @@
+// Свойства Slick-Slider'а на главной
 $(document).ready(function(){
     $('.slider').slick({
         arrows: true,
@@ -8,6 +9,7 @@ $(document).ready(function(){
     });
 });
 
+// Меню-бургер слева
 $('.menu-btn').on('click', function(e){
     e.preventDefault;
     $(this).toggleClass('active');
