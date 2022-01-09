@@ -22,14 +22,15 @@
 
         <div class="page_content">
             <div class="video-box1"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg.png" alt=""> </a></div>
-            <div class="video-box2"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg2.png" alt=""></a></div>
+            <div class="video-box2"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg12.jpg" alt=""></a></div>
             <div class="video-box3"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg3.png" alt=""></a></div>
+            <div class="video-box1"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg7.jfif" alt=""> </a></div>
+            <div class="video-box2"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg8.jpg" alt=""></a></div>
+            <div class="video-box3"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg9.jpg" alt=""></a></div>
             <div class="video-box4"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg4.png" alt=""></a></div>
-            <div class="video-box5"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg5.png" alt=""></a></div>
-            <div class="video-box6"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg6.png" alt=""></a></div>
-            <div class="video-box7"></div>
-            <div class="video-box8"></div>
-            <div class="video-box9"></div>
+            <div class="video-box5"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg11.jpg" alt=""></a></div>
+            <div class="video-box6"><a href="movie1.php"><img class="play" src="./img/playy.png" alt=""><img class="picInBox1" src="img/gg2.png" alt=""></a></div>
+
         </div>
 
         <?php include('phpElements/footer.php')?>
