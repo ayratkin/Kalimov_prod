@@ -23,19 +23,11 @@
         <div class="page2_content">
             <div class="row1">
                 <div class="row__title">
-                    <p> 
-                        <h2 class="row__title__subtitle" >Имиджевый видеоролик</h2>
-                        <br>
-                        <p class="row__title__text" > Снимем видео, которое расскажет об опыте работы компании.
-⠀                       <br>
-
-                        Создадим историю, сценарий которой покажет уникальность бренда, товара или продукта.
-                        <br>
- 
-
-                        Через имиджевое видео также можем рассказать историю человека, профессионала в своем деле,что важно при продвижении личного бренда в соцсетях или создании экспертного YouTube-канала..</p>
-                        
-                    </p>
+                        <h2 class="row__title__subtitle" >Image video</h2>
+                        <p class="row__title__text">
+                        Let's create a story, the script of which will show the uniqueness of the brand, product or product.
+                        Through an image video, we can also tell the story of a person, a professional in his field, which is important when promoting a personal brand on social networks or creating an expert YouTube channel.
+                        </p>
                 </div>
 
                 <div class="row__picture">
@@ -45,11 +37,12 @@
 
             <div class="row2">
                 <div class="row__title">
-                    <div class="row__title__subtitle">Рекламный видеоролик</div>
-                    <br>
-                    <div class="row__title__text">Расскажем о вашем продукте или услуге и покажем, как этим пользоваться так, что это вызовет эмоции.
-                    <br> <br>
-                    Заполните бриф, и мы расскажем, как видим концепцию для решения вашей задачи</div>
+                    <div class="row__title__subtitle">Promotional video</div>
+                    <div class="row__title__text">
+                        We will tell you about your product or service and show you how to use it in a way that will evoke emotions. 
+                        <br>
+                        Fill out the brief and we will tell you how we see the concept for solving your problem.
+                    </div>
                 </div>
 
                 <div class="row__picture">
@@ -60,14 +53,12 @@
             <div class="row3">
                 <div class="row__title">
                     <div class="row__title__subtitle">
-                    Интервью и репортажи для Ютуб-каналов
+                    Interviews and reports for YouTube channels
                     </div>
-                    <br>
                     <div class="row__title__text">
-                    Нужно видео-интервью? Пропишем сценарий, исходя из тезисов и снимем с лучшим звуком, светом и без лишних пауз в разговоре.
-                    <br> <br>
-                    Планируете мероприятие?
-                    Снимем видео о важном событии или проведем видеотрансляцию ивента сразу на несколько площадок.
+                    Need a video interview? We will write a script based on the theses and shoot with the best sound, light and without unnecessary pauses in the conversation.
+                    <br>
+                    Planning an event? We will shoot a video about an important event or we will broadcast the event to several sites at once.
                     </div>
                 </div>
 
