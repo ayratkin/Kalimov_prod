@@ -23,7 +23,7 @@
         <div class="content-body">
             <p class="contact-header" >Contact information</p>
 
-            <div class="box-for-box">
+            <div class="contact-information-box">
                 <div class="address-box">
                     <p>Address: 198 West 21th Street, Suite 721 New York NY 10016</p>
                 </div>
@@ -36,9 +36,9 @@
                 <div class="website-box">
                     <p>Website yoursite.com</p>
                 </div>
-                <div class="form-box"></div>
-                <div class="map-box"></div>
             </div>
+
+
         </div>
 
         <?php include('phpElements/footer.php')?>
