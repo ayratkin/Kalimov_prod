@@ -28,7 +28,7 @@
                     <p>Address: 198 West 21th Street, Suite 721 New York NY 10016</p>
                 </div>
                 <div class="phone-box">
-                    <p>Phone: + 1235 2355 98</p>
+                    <p style="display: inline;" >Phone: <h1 class="phone-box-color" >+7(800)555-35-35</p></p>
                 </div>
                 <div class="email-box">
                     <p>Email: info@yoursite.com</p>

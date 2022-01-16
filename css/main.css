@@ -647,8 +647,8 @@ body {
 .row__title__text {
 width: 100%;
     font-family: 'Poppins', sans-serif;
-    color: #000000;
-    font-size: 18px;
+    color: #999999;
+    font-size: 15px;
     line-height: 1.8;
     font-weight: 500;
     display: inline;
@@ -723,3 +723,8 @@ width: 100%;
 .email-box {
   margin-right: 42px;
 }
+
+.phone-box-color {
+  color: rgb(0, 0, 0);
+  display: inline;
+} 
